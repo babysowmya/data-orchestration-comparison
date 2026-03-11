@@ -1,0 +1,7 @@
+pandas
+pyarrow
+apache-airflow
+prefect
+dagster
+dagster-webserver
+redis==4.6.0
