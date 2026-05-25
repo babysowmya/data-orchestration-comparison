@@ -35,6 +35,6 @@ def etl_flow(input_path, output_path):
 
 if __name__ == "__main__":
     etl_flow(
-        "data/user_events.csv",
-        "data/output_prefect.parquet"
+        input_path="data/user_events.csv",
+        output_path="data/output_prefect.parquet"
     )

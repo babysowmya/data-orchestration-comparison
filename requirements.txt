@@ -1,7 +1,7 @@
-pandas
-pyarrow
-apache-airflow
-prefect
-dagster
-dagster-webserver
-redis==4.6.0
+pandas==2.2.2
+pyarrow==15.0.2
+prefect==2.19.0
+dagster==1.7.0
+dagster-webserver==1.7.0
+dagster-pandas==0.23.0
+apache-airflow==2.8.4

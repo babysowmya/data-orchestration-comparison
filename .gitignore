@@ -12,9 +12,6 @@ logs/
 airflow.db
 *.db
 
-data/
-*.parquet
-
 node_modules/
 
 .DS_Store

@@ -1,0 +1,5 @@
+ops:
+  extract_op:
+    config:
+      input_path: "data/user_events.csv"
+      output_path: "data/extracted.parquet"
